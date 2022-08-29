@@ -1,10 +1,10 @@
 #include<stdio.h>
-
+using namespace std;
 
 
 int main()
 {
-  cout>>"Hola">>endl;
+  cout<<"Hola"<<endl;
 
-  return 0
+  return 0;
 }
